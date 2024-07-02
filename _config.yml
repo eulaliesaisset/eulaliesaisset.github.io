@@ -12,6 +12,7 @@ title                    : "Eulalie Saïsset"
 title_separator          : ""
 name                     : &name "Eulalie Saïsset"
 description              : &description "PhD Candidate"
+theme                    : jekyll-theme-cayman
 url                      : https://eulaliesaisset.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "eulaliesaisset/eulaliesaisset.github.io"
