@@ -9,10 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+You can download a PDF copy of my CV [here](/files/pdf/Williams CV.pdf).
+
 Education
 ======
 * Ph.D in Economics, Sciences Po, 2023 - now
-* M.S. in Economics - Public Policies and Development, Paris School of Economics, 2020 - 2022
+* M.S. in Economics, Paris School of Economics, 2020 - 2022
 * M.S. in Engineering, Mines Paris, 2017 - 2021
 * Prep School, Lycée Louis Le Grand, 2015 - 2017
 
@@ -55,23 +57,13 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-<>Talks
-======
-<>  <ul>{% for post in site.talks reversed %}
-<>    {% include archive-single-talk-cv.html  %}
-<>  {% endfor %}</ul>
-  
+   
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
-
 Skills
 ======
 * Skill 1
