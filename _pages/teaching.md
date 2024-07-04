@@ -13,6 +13,6 @@ permalink: /teaching/
 - 2011 - 2019: Teacher, _Mathematics & Physics_, Tutoring from middle school to bachelor level with numerous students for one-off courses or support over several years
 
 ## Trainings
-2022 - 2023: Trainer, _Training on transition challenges_, Teaching environmental consultants, French administrative staff and company directors among I Care & Consult clients on transition issues (carbon pricing, natural resources, carbon footprint, industrial transition)
-2022: Trainer, _La Fresque de la finance_,Development and roll-out
-2021 - now: Trainer, _La Fresque du climat_, Facilitator in French and English; roll-out at the Paris School of Economics
+- 2022 - 2023: Trainer, _Training on transition challenges_, Teaching environmental consultants, French administrative staff and company directors among I Care & Consult clients on transition issues (carbon pricing, natural resources, carbon footprint, industrial transition)
+- 2022: Trainer, _La Fresque de la finance_,Development and roll-out
+- 2021 - now: Trainer, _La Fresque du climat_, Facilitator in French and English; roll-out at the Paris School of Economics
