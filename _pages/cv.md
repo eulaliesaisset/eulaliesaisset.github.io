@@ -20,7 +20,7 @@ Education
 
 Work experience
 ======
-* 2022 - 2023: Environmental Economist Consultant, I Care & Consult
+* 2022 - 2023: Environmental Economics Consultant, I Care & Consult
   * Strategic support for public (local authorities, administration, government agencies) and private players in the transition
   * Topics: decarbonation of industry, criticality of raw materials, carbon pricing, transition costs
   * Methodological development on key challenges: reliance on critical natural resources, technology abatement costs, internal carbon pricing, multi-sector forecasting exercises
@@ -38,8 +38,7 @@ Research experience
 * 2021 - 2022: Master thesis in Economics
   * ’The Carbon Bubble: how big is it and who owns it? Methods and estimates for Europe’
   * Paris School of Economics
-  * Advisor: Lucas Chancel
-  * Referee: Thomas Piketty
+  * Advisor: Lucas Chancel; Referee: Thomas Piketty
 
 * 2019: Research project in sociology
   * Mineral resource development in French Guiana to analyze key territorial challenges (gold mining, economic development, conservation of the environment, land-use planning and protecting indigenous peoples)
@@ -50,7 +49,6 @@ Research experience
   * Design of an observer for a Rijke tube with heat source: theoretical study of the system’s thermo-acoustics and algorithmic resolution
   * Centre Automatique et Systèmes, Mines Paris
   * Advisor: Florent Di Meglio 
-
 
 Publications
 ======
@@ -66,9 +64,6 @@ Teaching
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Computer Skills: R, Python, Java, Excel, ArcGIS, QGIS, LATEX, Notion
+* Languages: French (native), English (fluent), German (intermediate), Spanish (notions)
+* Other trainings: Carbon footprint official training (Association Bilan Carbone), Gender equality in the workplace (Companieros)
