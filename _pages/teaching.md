@@ -4,7 +4,7 @@ permalink: /teaching/
 ---
 
 ## Current
-- Fall 2024: Co-Instructor, _Ecological Accounting for Net-Zero Cities: Carbon and Soil cross-case analysis GETEC master’s program_, Urban School, Sciences Po
+- Fall 2024: Co-Instructor, _Ecological Accounting for Net-Zero Cities: Carbon and Soil cross-case analysis_, GETEC master’s program, Urban School, Sciences Po
 - Fall 2024: Instructor, _Data & Statistics_, Masters in International Business and Sustainability, Sciences Po
 
 ## Past
