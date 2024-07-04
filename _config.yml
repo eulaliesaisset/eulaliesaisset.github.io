@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "profile.JPG"
   name             : "Eulalie Saïsset"
-  pronouns         : # example: "she/her"  
-  bio              : "PhD Candidate \ CRIS, Sciences Po & CIRED"
+  pronouns         : "PhD Candidate"  
+  bio              : "CRIS, Sciences Po & CIRED"
   location         : "Paris, France"
   employer         : "Ministère de la Transition Écologique"
   uri              : # URL
