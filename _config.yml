@@ -17,6 +17,8 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "eulaliesaisset/eulaliesaisset.github.io"
 theme                    : jekyll-theme-midnight
 
+minimal_mistakes_skin: "aqua"
+
 remote_theme: pages-themes/midnight@v0.2.0
 
 
