@@ -11,7 +11,7 @@ I am a PhD Candidate in Economics at Sciences Po ([Centre for Research on Social
 
 From January 2025, I will be a visiting researcher at the Department of Geography and Environment at the London School of Economics. 
 
-My work involves studying the equity issues in policies preventing land take in France, within the global context of addressing land degradation and biodiversity loss. My research interests lie at the intersection between environmental justice, land economics and biodiversity conservation. Find out more about my ongoing research projects here. Find out more about my ongoing research projects here.
+My work involves studying the equity issues in policies preventing land take in France, within the global context of addressing land degradation and biodiversity loss. My research interests lie at the intersection between environmental justice, land economics and biodiversity conservation. Find out more about my ongoing research projects here. Find out more about my ongoing research projects [here](https://eulaliesaisset.github.io/research/).
 
 I hold a master's degree in engineering from [Mines Paris](https://www.minesparis.psl.eu/en/home/) and a master's degree in economics from the [Paris School of Economics](https://www.parisschoolofeconomics.eu/en/teaching/masters-program/ppd-public-policy-and-development/) and previously worked at the World Bank and the environmental consultancy I Care & Consult. 
 
