@@ -11,15 +11,13 @@ redirect_from:
 
 You can download a PDF copy of my CV [here](/files/Academic_CV_Eulalie_Saïsset.pdf).
 
-Education
-======
+## Education
 * Ph.D in Economics, Sciences Po, 2023 - now
 * M.S. in Economics, Paris School of Economics, 2020 - 2022
 * M.S. in Engineering, Mines Paris, 2017 - 2021
 * Prep School, Lycée Louis Le Grand, 2015 - 2017
 
-Work experience
-======
+## Work experience
 * 2022 - 2023: Environmental Economics Consultant, I Care & Consult
   * Strategic support for public (local authorities, administration, government agencies) and private players in the transition
   * Topics: decarbonation of industry, criticality of raw materials, carbon pricing, transition costs
@@ -33,8 +31,7 @@ Work experience
   * Modelling of transport networks and accessibility studies using urban planning tools
   * Economic evaluation and technical design of projects, examination of environmental and social aspects
 
-Research experience
-======
+## Research experience
 * 2021 - 2022: Master thesis in Economics
   * ’The Carbon Bubble: how big is it and who owns it? Methods and estimates for Europe’
   * Paris School of Economics
@@ -50,30 +47,27 @@ Research experience
   * Centre Automatique et Systèmes, Mines Paris
   * Advisor: Florent Di Meglio 
 
-Publications
-======
+## Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
    
-Teaching
-======
-## Current
+## Teaching
+### Current
 - Fall 2024: Co-Instructor, _Ecological Accounting for Net-Zero Cities: Carbon and Soil cross-case analysis GETEC master’s program_, Urban School, Sciences Po
 - Fall 2024: Instructor, _Data & Statistics_, Masters in International Business and Sustainability, Sciences Po
 
-## Past
+### Past
 - Fall 2021: Guest instructor, _European carbon pricing policies_, One-day training module, Masters in Engineering (Major in Sociology), Mines Paris
 - 2018 - 2019: Teaching Assistant, _Engineering Sciences_, Preparation of students of PCSI class for the oral examinations of the grandes écoles, Lycée Saint-Louis
 - 2011 - 2019: Teacher, _Mathematics & Physics_, Tutoring from middle school to bachelor level with numerous students for one-off courses or support over several years
 
-## Trainings
+### Trainings
 - 2022 - 2023: Trainer, _Training on transition challenges_, Teaching environmental consultants, French administrative staff and company directors among I Care & Consult clients on transition issues (carbon pricing, natural resources, carbon footprint, industrial transition)
 - 2022: Trainer, _La Fresque de la finance_,Development and roll-out
 - 2021 - now: Trainer, _La Fresque du climat_, Facilitator in French and English; roll-out at the Paris School of Economics
   
-Skills
-======
+## Skills
 * Computer Skills: R, Python, Java, Excel, ArcGIS, QGIS, LATEX, Notion
 * Languages: French (native), English (fluent), German (intermediate), Spanish (notions)
 * Other trainings: Carbon footprint official training (Association Bilan Carbone), Gender equality in the workplace (Companieros)
