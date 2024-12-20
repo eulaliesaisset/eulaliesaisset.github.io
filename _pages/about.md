@@ -15,5 +15,5 @@ My work involves studying the equity issues in policies preventing land take in 
 
 I hold a master's degree in engineering from [Mines Paris](https://www.minesparis.psl.eu/en/home/) and a master's degree in economics from the [Paris School of Economics](https://www.parisschoolofeconomics.eu/en/teaching/masters-program/ppd-public-policy-and-development/) and previously worked at the World Bank and the environmental consultancy I Care & Consult. 
 
-Don't hesitate to reach out at [eulalie.saisset@sciencespo.fr](mailto:eulalie.saisset@sciencespo.fr).
+Don't hesitate to reach out at [eulalie.saisset@sciencespo.fr](mailto:eulalie.saisset@sciencespo.fr). I also communicate on my research through a [more informal newsletter](https://docs.google.com/forms/d/e/1FAIpQLSc0KMamz1bUvNJ7rHEwgfn604Yl-0u_W-1VuNxiWdAKwa-cwQ/viewform?usp=sf_link).
 
