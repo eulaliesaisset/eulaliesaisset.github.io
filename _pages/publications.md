@@ -13,9 +13,11 @@ You can also find my articles on my Google Scholar profile.
 
 {% for post in site.publications reversed %}
   {% if post.type == "peer-reviewed" %}
-    {% include archive-single.html %}
+    {% include archive-single-cv.html %}
   {% endif %}
 {% endfor %}
+
+
 
 <!-- ## Working papers
 
