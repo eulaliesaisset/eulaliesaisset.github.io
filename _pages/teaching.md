@@ -4,7 +4,7 @@ permalink: /teaching/
 ---
 
 ## Current
-- Fall 2024 & Fall 2025: Co-Instructor, _Ecological Accounting for Net-Zero Cities: Carbon and Soil cross-case analysis_, Urban Governance, Policy and Planning master’s program, Urban School, Sciences Po
+- Since 2024: Co-Instructor, _Ecological Accounting for Net-Zero Cities: Carbon and Soil cross-case analysis_, Urban Governance, Policy and Planning master’s program, Urban School, Sciences Po
 
 ## Past
 - Fall 2024: Instructor, _Data & Statistics_, Masters in International Business and Sustainability, Sciences Po
