@@ -47,6 +47,8 @@ You can download a PDF copy of my CV [here](/files/Academic_CV_Eulalie_Saïsset.
   * Centre Automatique et Systèmes, Mines Paris
   * Advisor: Florent Di Meglio 
 
+<!-- 
+
 ## Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -71,4 +73,4 @@ You can download a PDF copy of my CV [here](/files/Academic_CV_Eulalie_Saïsset.
 ## Skills
 * Computer Skills: R, Python, Java, Excel, ArcGIS, QGIS, LATEX, Notion
 * Languages: French (native), English (fluent), German (intermediate), Spanish (notions)
-* Other trainings: Carbon footprint official training (Association Bilan Carbone), Gender equality in the workplace (Companieros)
+* Other trainings: Carbon footprint official training (Association Bilan Carbone), Gender equality in the workplace (Companieros) -->
