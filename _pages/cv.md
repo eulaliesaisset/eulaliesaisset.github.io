@@ -32,6 +32,10 @@ You can download a PDF copy of my CV [here](/files/Academic_CV_Eulalie_Saïsset.
   * Economic evaluation and technical design of projects, examination of environmental and social aspects
 
 ## Research experience
+* 2025: Visiting research stay
+  * Department of Geography and Environment, London School of Economics
+  * Advisor: Giles Atkinson
+
 * 2021 - 2022: Master thesis in Economics
   * ’The Carbon Bubble: how big is it and who owns it? Methods and estimates for Europe’
   * Paris School of Economics
