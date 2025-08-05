@@ -24,7 +24,7 @@ author_profile: true
 
 {% for post in site.publications reversed %}
   {% if post.type == "working-paper" %}
-    {% include archive-single.html %}
+    {% include archive-single-cv.html %}
   {% endif %}
 {% endfor %} -->
 
@@ -32,7 +32,7 @@ author_profile: true
 
 {% for post in site.publications reversed %}
   {% if post.type == "book" %}
-    {% include archive-single.html %}
+    {% include archive-single-cv.html %}
   {% endif %}
 {% endfor %}
 
@@ -40,7 +40,7 @@ author_profile: true
 
 {% for post in site.publications reversed %}
   {% if post.type == "book-chapter" %}
-    {% include archive-single.html %}
+    {% include archive-single-cv.html %}
   {% endif %}
 {% endfor %} -->
 
@@ -48,7 +48,7 @@ author_profile: true
 
 {% for post in site.publications reversed %}
   {% if post.type == "report" %}
-    {% include archive-single.html %}
+    {% include archive-single-cv.html %}
   {% endif %}
 {% endfor %}
 
@@ -56,7 +56,7 @@ author_profile: true
 
 {% for post in site.publications reversed %}
   {% if post.type == "outreach" %}
-    {% include archive-single.html %}
+    {% include archive-single-cv.html %}
   {% endif %}
 {% endfor %}
 
