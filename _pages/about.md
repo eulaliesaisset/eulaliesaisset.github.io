@@ -17,17 +17,13 @@ I hold a master's degree in engineering from [Mines Paris](https://www.minespari
 
 Don't hesitate to reach out at [eulalie.saisset@sciencespo.fr](mailto:eulalie.saisset@sciencespo.fr). I also communicate on my research through a [more informal newsletter](https://docs.google.com/forms/d/e/1FAIpQLSc0KMamz1bUvNJ7rHEwgfn604Yl-0u_W-1VuNxiWdAKwa-cwQ/viewform?usp=sf_link).
 
-P.S. If you’re wondering how to pronounce my name, you’re not alone. I don’t mind if it gets a little mangled or shortened to “Laly.” But if you’d like the full version, try this: uh-lah-lee.
-– uh, like in _urban_ or _earth_
-– lah, like in _lark_ or _latitude_
-– lee, like in _leaf_ or _valley_
+
 
 <small>
-**P.S.** If you’re wondering how to pronounce my name, you’re not alone.  
-I don’t mind if it gets a little mangled or shortened to “Laly.”  
-But if you’d like the full version, try this: **uh-lah-lee**.
 
+**P.S.** If you’re wondering how to pronounce my name, you’re not alone.  I don’t mind if it gets a little mangled or shortened to “Laly.”  But if you’d like the full version, try this: **uh-lah-lee**.
 – **uh**, like in *urban* or *earth*  
 – **lah**, like in *lark* or *latitude*  
 – **lee**, like in *leaf* or *valley*
+
 </small>
