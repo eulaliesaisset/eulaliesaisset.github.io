@@ -29,13 +29,7 @@
 <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
-<!-- Dark mode initialization script (runs early to prevent flash) -->
-<script>
-  (function() {
-    // Check for saved theme preference or default to light mode
-    const savedTheme = localStorage.getItem('theme') || 'light';
-    document.documentElement.setAttribute('data-theme', savedTheme);
-  })();
-</script>
+<!-- Dark mode script (runs early to prevent flash) -->
+<script src="{{ base_path }}/assets/js/dark-mode.js"></script>
 
 <!-- end custom head snippets -->
