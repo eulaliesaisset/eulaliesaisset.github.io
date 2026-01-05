@@ -4,13 +4,12 @@
 <script>
   document.addEventListener('DOMContentLoaded', function() {
     const toggle = document.getElementById('dark-mode-toggle');
-    const icon = toggle.querySelector('i');
+    const icon = toggle.querySelector('.dark-mode-icon');
 
     // Set initial icon based on current theme
     const currentTheme = document.documentElement.getAttribute('data-theme');
     if (currentTheme === 'dark') {
-      icon.classList.remove('fa-moon');
-      icon.classList.add('fa-sun');
+      icon.textContent = '☀️';
     }
 
     // Toggle dark mode on click
@@ -23,11 +22,9 @@
 
       // Toggle icon
       if (newTheme === 'dark') {
-        icon.classList.remove('fa-moon');
-        icon.classList.add('fa-sun');
+        icon.textContent = '☀️';
       } else {
-        icon.classList.remove('fa-sun');
-        icon.classList.add('fa-moon');
+        icon.textContent = '🌙';
       }
     });
   });
