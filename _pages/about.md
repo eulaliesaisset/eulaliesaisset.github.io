@@ -17,7 +17,10 @@ I hold a master's degree in engineering from [Mines Paris](https://www.minespari
 
 Don't hesitate to reach out at [eulalie.saisset@sciencespo.fr](mailto:eulalie.saisset@sciencespo.fr). I also communicate on my research through a [more informal newsletter](https://docs.google.com/forms/d/e/1FAIpQLSc0KMamz1bUvNJ7rHEwgfn604Yl-0u_W-1VuNxiWdAKwa-cwQ/viewform?usp=sf_link).
 
-
+<div style="font-size: 0.85em;">
+**P.S.** If you’re wondering how to pronounce my name, you’re not alone.  I don’t mind if it gets a little mangled or shortened to “Laly.”  But if you’d like the full version, try this: **uh-lah-lee**.
+**uh**, like in *urban* or *earth*; **lah**, like in *lark* or *latitude*; **lee**, like in *leaf* or *valley*.
+</div>
 
 <small style="opacity: 0.85;">
 **P.S.** If you’re wondering how to pronounce my name, you’re not alone.  I don’t mind if it gets a little mangled or shortened to “Laly.”  But if you’d like the full version, try this: **uh-lah-lee**.
