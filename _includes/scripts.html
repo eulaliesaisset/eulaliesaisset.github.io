@@ -1,4 +1,37 @@
 <script src="{{ base_path }}/assets/js/main.min.js"></script>
 
+<!-- Dark mode toggle script -->
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const toggle = document.getElementById('dark-mode-toggle');
+    const icon = toggle.querySelector('i');
+
+    // Set initial icon based on current theme
+    const currentTheme = document.documentElement.getAttribute('data-theme');
+    if (currentTheme === 'dark') {
+      icon.classList.remove('fa-moon');
+      icon.classList.add('fa-sun');
+    }
+
+    // Toggle dark mode on click
+    toggle.addEventListener('click', function() {
+      const currentTheme = document.documentElement.getAttribute('data-theme');
+      const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+
+      document.documentElement.setAttribute('data-theme', newTheme);
+      localStorage.setItem('theme', newTheme);
+
+      // Toggle icon
+      if (newTheme === 'dark') {
+        icon.classList.remove('fa-moon');
+        icon.classList.add('fa-sun');
+      } else {
+        icon.classList.remove('fa-sun');
+        icon.classList.add('fa-moon');
+      }
+    });
+  });
+</script>
+
 {% include analytics.html %}
 {% include /comments-providers/scripts.html %}
