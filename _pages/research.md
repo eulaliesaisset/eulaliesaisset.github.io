@@ -36,7 +36,7 @@ _[with François Lafont](https://sites.google.com/view/francoislafont11/accueil)
 <details>
   <summary>Presentations</summary>
   <div style="font-size: 0.9em;">
-    <!-- Add your presentation locations here, for example:
+    <-- 
     - Conference Name, Location, Year
     - Seminar Name, Institution, Year
     -->
