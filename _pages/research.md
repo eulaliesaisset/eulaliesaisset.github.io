@@ -16,8 +16,8 @@ permalink: /research/
 <details>
   <summary>Presentations</summary>
   <div style="font-size: 0.9em;">
-    - Conference Name, Location, Year
-    - Seminar Name, Institution, Year
+      World Inequality Lab seminar, Paris, 2024 | LSE GY500 Seminar, London, 2025 | 18th ISEE conference, Oslo, 2025 | 37th SIEP conference, Naples, 2025
+    
   </div>
 </details>
 
@@ -36,10 +36,7 @@ _[with François Lafont](https://sites.google.com/view/francoislafont11/accueil)
 <details>
   <summary>Presentations</summary>
   <div style="font-size: 0.9em;">
-    <-- 
-    - Conference Name, Location, Year
-    - Seminar Name, Institution, Year
-    -->
+    Econom'IA workshop, Paris, 2025 | 10th AFED conference, Nancy, 2025 | Journée d'étude de l'Insitut de la Transition Foncière, Paris, 2025
   </div>
 </details>
 
