@@ -16,10 +16,8 @@ permalink: /research/
 <details>
   <summary>Presentations</summary>
   <div style="font-size: 0.9em;">
-    <!-- Add your presentation locations here, for example:
     - Conference Name, Location, Year
     - Seminar Name, Institution, Year
-    -->
   </div>
 </details>
 
