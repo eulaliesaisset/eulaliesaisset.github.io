@@ -103,11 +103,12 @@
 // New version with rectangle picture
 .author__avatar {
   img {
-    max-width: 100%; // Use 100% to fit the sidebar width
-    width: 100%;
-    height: 250px; // Set your desired height for a vertical rectangle
+    width: 90%; // Slightly smaller than the sidebar width
+    height: 250px; // Adjust height as needed
     object-fit: cover;
-    // border-radius: 50%; // Comment out or remove this line
+    border-radius: 8px; // Slightly rounded corners (adjust as needed)
+    margin: 0 auto; // Centers the image if the width is less than 100%
+    display: block; // Ensures margin auto works
   }
 }
 
