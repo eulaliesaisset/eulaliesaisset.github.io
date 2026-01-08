@@ -5,7 +5,7 @@ permalink: /research/
 
 ## Working papers
 
-### A Taxing Dilemma: Land Take, Fiscal Revenues and the Redistribution Puzzle
+### A taxing dilemma: Land take, fiscal revenues and municipal budgets
 <details>
   <summary>Abstract</summary>
   <div style="font-size: 0.9em;">
@@ -23,7 +23,7 @@ permalink: /research/
 
 ---
 
-### Contested Ground: Exploring Land Use Conflicts in France
+### Contested ground: Exploring land use conflicts in France
 _[with François Lafont](https://sites.google.com/view/francoislafont11/accueil)_
 
 <details>
