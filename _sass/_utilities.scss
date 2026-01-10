@@ -199,6 +199,14 @@ body:hover .visually-hidden button {
     color: #000;
   }
 
+  /* Make non-link icons (location, employer) use grey color */
+  li:not(:has(a)) {
+    .fa,
+    .fa-solid {
+      color: inherit;
+    }
+  }
+
   .fa-bluesky,
   .fa-bluesky-square {
     color: $bluesky-color;
