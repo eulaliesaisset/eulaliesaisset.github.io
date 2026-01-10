@@ -109,6 +109,10 @@
   .author__urls {
     background: var(--background-color);
     border: 1px solid var(--border-color);
+
+    @include breakpoint($large) {
+      border: 0;
+    }
   }
 
   .author__urls-wrapper {

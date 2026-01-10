@@ -43,13 +43,13 @@
   margin-top: 0;
   margin-bottom: 0.15em;
   font-family: $sans-serif-narrow;
-  font-weight: normal;
+  font-weight: bold;
   line-height: 1.3;
-  font-size: $type-size-6;
+  font-size: 0.7em;
 
-  // Responsive font sizes - smaller on mobile
+  // Responsive font sizes - slightly larger on desktop
   @include breakpoint($medium) {
-    font-size: $type-size-5;
+    font-size: 0.85em;
   }
 
   a + a {
@@ -67,8 +67,8 @@
 
   // Reduce spacing between section headers and publications
   h2 {
-    margin-bottom: 0.33em;
-    margin-top: 1em;
+    margin-bottom: 0.25em;
+    margin-top: 0.75em;
 
     &:first-child {
       margin-top: 0;
