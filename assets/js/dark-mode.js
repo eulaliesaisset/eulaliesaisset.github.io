@@ -13,17 +13,19 @@ document.addEventListener('DOMContentLoaded', function() {
     return;
   }
 
-  var icon = toggle.querySelector('.dark-mode-icon');
+  var moonIcon = toggle.querySelector('.moon-icon');
+  var sunIcon = toggle.querySelector('.sun-icon');
 
-  if (!icon) {
-    console.error('Dark mode icon not found');
+  if (!moonIcon || !sunIcon) {
+    console.error('Dark mode icons not found');
     return;
   }
 
   // Set initial icon based on current theme
   var currentTheme = document.documentElement.getAttribute('data-theme');
   if (currentTheme === 'dark') {
-    icon.textContent = '☀️';
+    moonIcon.style.display = 'none';
+    sunIcon.style.display = 'inline-block';
   }
 
   // Toggle dark mode on click
@@ -36,11 +38,13 @@ document.addEventListener('DOMContentLoaded', function() {
     document.documentElement.setAttribute('data-theme', newTheme);
     localStorage.setItem('theme', newTheme);
 
-    // Toggle icon
+    // Toggle icon visibility
     if (newTheme === 'dark') {
-      icon.textContent = '☀️';
+      moonIcon.style.display = 'none';
+      sunIcon.style.display = 'inline-block';
     } else {
-      icon.textContent = '🌙';
+      moonIcon.style.display = 'inline-block';
+      sunIcon.style.display = 'none';
     }
   });
 });
