@@ -106,9 +106,11 @@
   width: 100%; // Full width on mobile devices
   margin-left: 0; // Aligns the image to the left
   margin-right: auto; // Optional: centers the right margin if needed
+  margin-bottom: 15px; // Add space below picture on mobile
 
   @include breakpoint($large) {
     width: 80%; // Slightly smaller than the sidebar width on larger screens
+    margin-bottom: 0; // Remove bottom margin on desktop
   }
 
   img {
