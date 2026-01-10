@@ -123,6 +123,15 @@
     }
   }
 
+  .social-icons {
+    .fa,
+    .fa-solid,
+    .fa-regular,
+    .fa-brands {
+      color: var(--text-color) !important;
+    }
+  }
+
   .page__footer {
     background-color: var(--footer-background-color);
     color: var(--text-color);
