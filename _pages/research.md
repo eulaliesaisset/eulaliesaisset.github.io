@@ -28,7 +28,7 @@ permalink: /research/
 ---
 
 ### Contested ground: Exploring land use conflicts in France
-<span style="font-size: 0.85em;">_[with François Lafont](https://sites.google.com/view/francoislafont11/accueil)_</span>
+<p style="font-size: 0.85em; margin-top: 0.2em; margin-bottom: 0.5em;">_[with François Lafont](https://sites.google.com/view/francoislafont11/accueil)_</p>
 
 <details>
   <summary>Abstract</summary>
@@ -53,7 +53,7 @@ permalink: /research/
 ## Selected work in progress
 
 ### Who benefits from land take? Inequality, property ownership and the ecological debt of artificialization in France
-<span style="font-size: 0.85em;">_[with Harold Levrel](https://cesco.mnhn.fr/fr/annuaire/harold-levrel-6495)_</span>
+<p style="font-size: 0.85em; margin-top: 0.2em; margin-bottom: 0.5em;">_[with Harold Levrel](https://cesco.mnhn.fr/fr/annuaire/harold-levrel-6495)_</p>
 
 <details>
   <summary>Abstract</summary>
