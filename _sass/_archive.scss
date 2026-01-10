@@ -60,7 +60,7 @@
 .page__content {
 
   .archive__item-title {
-    margin-top: 0;
+    margin-top: 0 !important;
     border-bottom: none;
   }
 
@@ -72,6 +72,11 @@
     &:first-child {
       margin-top: 0;
     }
+  }
+
+  // Ensure h3 inside archive items has no top margin
+  h3.archive__item-title {
+    margin-top: 0 !important;
   }
 }
 
@@ -101,6 +106,7 @@
   padding: 0 0.5em 0.25em 0.5em;
   margin-left: -0.5em;
   margin-right: -0.5em;
+  margin-top: 0;
   border-radius: 4px;
   transition: background-color 0.2s ease;
 
@@ -123,6 +129,9 @@
    ========================================================================== */
 
 .list__item {
+  margin-top: 0;
+  margin-bottom: 0;
+
   @include breakpoint($medium) {
     padding-right: $right-sidebar-width-narrow;
   }
