@@ -25,7 +25,6 @@ permalink: /research/
   </div>
 </details>
 
----
 
 ### Contested ground: Exploring land use conflicts in France
 <p style="font-size: 0.85em; margin-top: 0.2em; margin-bottom: 0.5em;"><em>with <a href="https://sites.google.com/view/francoislafont11/accueil">François Lafont</a></em></p>
@@ -48,7 +47,6 @@ permalink: /research/
   </div>
 </details>
 
----
 
 ## Selected work in progress
 
