@@ -191,6 +191,12 @@
     border-color: var(--border-color);
   }
 
+  .archive__item {
+    &:hover {
+      background-color: rgba(255, 255, 255, 0.05);
+    }
+  }
+
   .archive__item-title a {
     color: var(--text-color);
 
@@ -200,7 +206,7 @@
   }
 
   .archive__item-excerpt {
-    color: var(--text-color);
+    color: rgba(255, 255, 255, 0.75);
   }
 
   .list__item article {
