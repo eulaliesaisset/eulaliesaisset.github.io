@@ -5,7 +5,7 @@ permalink: /research/
 
 ## Working papers
 
-### A taxing dilemma: Land take, fiscal revenues and municipal budgets
+### A Taxing Dilemma: Land Take, Fiscal Revenues and Municipal Budgets
 <details>
   <summary>Abstract</summary>
   <div style="font-size: 0.9em;">
@@ -26,7 +26,7 @@ permalink: /research/
 </details>
 
 
-### To build or not to build? Decades of land use conflicts in France
+### To Build or not to Build? Decades of Land Use Conflicts in France
 <p style="font-size: 0.85em; margin-top: 0.2em; margin-bottom: 0.5em;"><em>with <a href="https://sites.google.com/view/francoislafont11/accueil">François Lafont</a></em></p>
 
 <details>
@@ -50,7 +50,7 @@ permalink: /research/
 
 ## Selected work in progress
 
-### Who benefits from land take? Inequality, property ownership and the ecological debt of artificialization in France
+### Distributional Analysis of Land Take: Human and Ecological Impacts in France
 <p style="font-size: 0.85em; margin-top: 0.2em; margin-bottom: 0.5em;"><em>with <a href="https://cesco.mnhn.fr/fr/annuaire/harold-levrel-6495">Harold Levrel</a></em></p>
 
 <details>
