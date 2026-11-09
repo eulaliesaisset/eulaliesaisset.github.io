@@ -58,9 +58,15 @@
 
     // Align the site title with the sidebar and the menu with the main column
     @include breakpoint($large) {
-      width: calc(min(100vw, #{$x-large}) * 0.29); // fixed length so the menu JS still measures real link widths
+      // title lines up with the sidebar content, the menu with the main column
+      // (container is $large wide, $x-large above that; 0.2966 = start of main column)
+      width: calc((#{$large} - 2rem) * 0.2966 - 1rem);
       padding-right: 0;
-      padding-left: 1.5em;
+      padding-left: 2.5rem;
+
+      @include breakpoint($x-large) {
+        width: calc((#{$x-large} - 2rem) * 0.2966 - 1rem);
+      }
     }
   }
 }

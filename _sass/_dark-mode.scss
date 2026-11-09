@@ -5,6 +5,7 @@
 html[data-theme="dark"] {
   background-color: #1a1a1a; // avoids white showing on overscroll
   color-scheme: dark;
+  overscroll-behavior: none;
 }
 
 [data-theme="dark"] {
