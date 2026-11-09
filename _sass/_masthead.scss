@@ -60,12 +60,12 @@
     @include breakpoint($large) {
       // title lines up with the sidebar content, the menu with the main column
       // (container is $large wide, $x-large above that; 0.2966 = start of main column)
-      width: calc((#{$large} - 2rem) * 0.2966 - 1rem);
+      width: calc(#{$large * 0.2966} - 1.5932rem);
       padding-right: 0;
       padding-left: 2.5rem;
 
       @include breakpoint($x-large) {
-        width: calc((#{$x-large} - 2rem) * 0.2966 - 1rem);
+        width: calc(#{$x-large * 0.2966} - 1.5932rem);
       }
     }
   }
