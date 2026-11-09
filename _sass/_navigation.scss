@@ -205,10 +205,6 @@
   .visible-links {
     display: table;
 
-    @include breakpoint($large) {
-      width: 100%;
-    }
-
     li {
       display: table-cell;
       vertical-align: middle;
