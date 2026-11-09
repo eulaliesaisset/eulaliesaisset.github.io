@@ -55,5 +55,12 @@
   &--lg {
     padding-right: 3em;
     font-weight: 700;
+
+    // Align the site title with the sidebar and the menu with the main column
+    @include breakpoint($large) {
+      width: span(3.5 of 12);
+      padding-right: 0;
+      padding-left: 1.5em;
+    }
   }
 }
