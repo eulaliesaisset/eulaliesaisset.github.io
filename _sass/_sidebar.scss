@@ -110,7 +110,7 @@
   margin-bottom: 15px; // Add space below picture on mobile
 
   @include breakpoint($large) {
-    width: 80%; // Slightly smaller than the sidebar width on larger screens
+    width: calc(min(100vw, #{$x-large}) * 0.13); // keep the picture at its original size even though the column is wider
     margin-bottom: 0; // Remove bottom margin on desktop
   }
 

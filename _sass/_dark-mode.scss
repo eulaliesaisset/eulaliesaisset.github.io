@@ -2,6 +2,11 @@
    Dark Mode
    ========================================================================== */
 
+html[data-theme="dark"] {
+  background-color: #1a1a1a; // avoids white showing on overscroll
+  color-scheme: dark;
+}
+
 [data-theme="dark"] {
   /* Dark mode colors */
   --body-color: #1a1a1a;
