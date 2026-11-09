@@ -16,7 +16,7 @@ permalink: /research/
 <details>
   <summary>Presentations</summary>
   <div style="font-size: 0.9em;">
-    <ul>
+    <ul style="margin-top: 0; margin-bottom: 0;">
       <li>World Inequality Lab seminar, Paris, 2024</li>
       <li>LSE GY500 Seminar, London, 2025</li>
       <li>18th ISEE conference, Oslo, 2025</li>
@@ -26,20 +26,20 @@ permalink: /research/
 </details>
 
 
-### To Build or not to Build? Decades of Land Use Conflicts in France
+### Land-Use Litigation and the Microgeography of NIMBYism
 <p style="font-size: 0.85em; margin-top: 0.2em; margin-bottom: 0.5em;"><em>with <a href="https://sites.google.com/view/francoislafont11/accueil">François Lafont</a></em></p>
 
 <details>
   <summary>Abstract</summary>
   <div style="font-size: 0.9em;">
-    As cities grow, building in already populated areas becomes central to housing affordability and land preservation. Competition over land use generates conflicts between economic actors and with local governments. We build a unique database spanning decades of construction and land-use litigation in France, using a LLM to extract rich contextual information from over 230,000 administrative court decisions. Linking these cases to granular administrative zones, we find two main patterns. <i>Anti-construction</i> litigation accounts for most of the cases and constitutes a strong force against densification of dynamic areas, constraining housing supply in particular. On the other hand, <i>Pro-construction</i> litigation largely aimed at securing building rights, creates development pressure at the urban fringe. Despite legal reforms intended to reduce litigation and low probabilities of winning in court, the number of cases has progressed. This can be rationalized by standard economic theory of litigation relying on individuals seeking to protect their asset value. We further document costly consequences for local governments as litigation threatens local land-use regulation. Our paper illustrates the difficulty to solve the trade-off between sprawl and housing supply via regulation and suggests large implementation costs associated with the rollout of stricter land preservation policies.
+    As cities grow, building in already populated areas becomes central to housing affordability and land preservation, but also triggers not-in-my-backyard (NIMBY) opposition. To measure it, we construct a dataset from judicial archives covering all construction and land-use litigation in France since 2005. Using an LLM, we extract with high accuracy rich contextual information from over 200,000 court decisions. We document that NIMBY opposition primarily takes the form of individuals challenging housing permits, disproportionately targeting multifamily housing. Consistent with a simple model in which neighbors litigate to protect their property values, appeals to approved housing concentrate in dense and expensive areas. Second-home owners also account for a significant share of litigation, especially in high-end tourist locations. In low-density areas, by contrast, litigation more often comes from owners of undeveloped land appealing permit denials to preserve their building rights.
   </div>
 </details>
 
 <details>
   <summary>Presentations</summary>
   <div style="font-size: 0.9em;">
-    <ul>
+    <ul style="margin-top: 0; margin-bottom: 0;">
       <li>Econom'IA workshop, Paris, 2025</li>
       <li>10th AFED conference, Nancy, 2025</li>
       <li>Journée d'étude de l'Insitut de la Transition Foncière, Paris, 2025</li>

@@ -9,7 +9,7 @@ redirect_from:
 
 I am a PhD Candidate in Economics at Sciences Po ([Centre for Research on Social Inequalities](https://www.sciencespo.fr/osc/en.html) & [Department of Economics](https://www.sciencespo.fr/department-economics/)) and [CIRED](https://www.centre-cired.fr/), under the supervision of [Lucas Chancel](https://lucaschancel.com/) (PSE & Sciences Po) and [Harold Levrel](https://cesco.mnhn.fr/fr/annuaire/harold-levrel-6495) (MNHN & CIRED). My research is funded by the French Ministry for Ecological Transition, where I work in an operational department in charge of land use planning and biodiversity conservation policies. I have also received a grant from the Fondation Palladio to support my work.
 
-During Winter 2025, I was visiting the [Department of Geography and Environment](https://www.lse.ac.uk/geography-and-environment) at the London School of Economics. 
+During Winter 2025, I was visiting the [Department of Geography and Environment](https://www.lse.ac.uk/geography-and-environment) at the London School of Economics. In Winter 2027, I will be visiting the [Department of Land Economy](https://www.landecon.cam.ac.uk/) at the University of Cambridge.
 
 My work involves studying the equity issues in policies preventing land take in France, within the global context of addressing land degradation and biodiversity loss. My research interests lie at the intersection between environmental inequalities, urban economics and biodiversity conservation. Find out more about my ongoing research projects [here](https://eulaliesaisset.github.io/research/).
 
