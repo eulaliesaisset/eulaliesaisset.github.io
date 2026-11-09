@@ -170,8 +170,8 @@
   margin: 0;
 
   @include breakpoint($large) {
-    margin-top: 10px;
-    margin-bottom: 20px;
+    margin-top: 6px;
+    margin-bottom: 8px;
   }
 }
 
@@ -201,6 +201,11 @@
       display: none;
     }
   }
+}
+
+.sidebar .author__urls li {
+  margin: 0;
+  line-height: 1.25;
 }
 
 .author__urls {
