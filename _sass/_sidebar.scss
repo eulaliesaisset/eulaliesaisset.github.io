@@ -144,7 +144,7 @@
 
   @include breakpoint($large) {
     margin-top: 8px;
-    margin-bottom: 0;
+    margin-bottom: -4px; // pulls the next line closer (line-height adds its own space)
   }
 }
 .sidebar .author__name {
