@@ -50,6 +50,9 @@ permalink: /research/
 
 ## Selected work in progress
 
+### Taxing Inheritance in an Ecological Macroeconomic Model: The Example of France
+<p style="font-size: 0.85em; margin-top: 0.2em; margin-bottom: 0.5em;"><em>with Adam Poupard, Julien Salama and Matthieu Bordenave</em></p>
+
 ### Distributional Analysis of Land Take: Human and Ecological Impacts in France
 <p style="font-size: 0.85em; margin-top: 0.2em; margin-bottom: 0.5em;"><em>with <a href="https://cesco.mnhn.fr/fr/annuaire/harold-levrel-6495">Harold Levrel</a></em></p>
 
